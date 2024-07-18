@@ -80,7 +80,7 @@ if __name__ == "__main__":
         'Synapse': {
             'root_path': args.root_path,
             'list_dir': './lists/lists_Synapse',
-            'num_classes': 9,
+            'num_classes': 2,
         },
     }
 
