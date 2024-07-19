@@ -1,6 +1,6 @@
 # Swin-Unet
 
-This model achieves the following performance on the brain hemorrhage segmentation and cervical feature extraction(best score :sparkles: )
+This model achieves the following performance on the brain hemorrhage segmentation
 
 **Cerebral Hemorrhage Segmentation Analysis for Cerebral Hemorrhage Bleeding Volume Estimation on Brain CT Imaging: A Pilot Study, Eunseo Jun et all., KCC 2024**
 
