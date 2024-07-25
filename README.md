@@ -12,10 +12,10 @@ This model achieves the following performance on the brain hemorrhage segmentati
 | Top 30% | 0.7893 | 0.6803 | 0.7752 |
 | All | 0.5373 | 0.4349 | 0.5377 |
 
-<img src="images/Untitled.png" alt="Untitled" width="600">
+<img src="images/Untitled.png" alt="Untitled" width="400">
 
 
 You can calculate the brain hemorrhage volume in calculate_volume.ipynb🧠
 
-<img src="images/hemorrahage_volume_estimation.png" alt="Untitled" width="600"> 
+<img src="images/hemorrahage_volume_estimation.png" alt="Untitled" width="400"> 
 
